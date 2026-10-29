@@ -1,0 +1,14 @@
+PROYECTO NARRATIVAS — Regreso a la extrema delgadez
+
+Sitio publicado (acceso privado):
+https://regreso-delgadez-jaz-2026.lush-giant-9161.chatgpt.site
+
+Contenido:
+- sitio/dist/: página web editable (index.html, styles.css, script.js y assets).
+- sitio/memory.md, AGENTS.md y agent.md: decisiones y guía de continuidad.
+- sitio/.openai/hosting.json: identidad de este proyecto en Sites.
+- referencias/: imágenes, grabación y PDF proporcionados para el trabajo.
+- variantes/: dos imágenes generadas que no se usan en la versión actual del sitio.
+
+Para abrir la página sin conexión, descomprimí el ZIP y abrí sitio/dist/index.html.
+El sitio publicado permanece online aunque muevas este paquete.
